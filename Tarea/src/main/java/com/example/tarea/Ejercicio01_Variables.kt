@@ -16,5 +16,7 @@ fun main() {
     val estatura: Double = 1.78
     val esEstudiante: Boolean = true
 
+    println("Me llamo $nombre, tengo $edad años, mido ${estatura}m y es $esEstudiante que soy estudiante.")
+
     // TODO: Usa println con string templates para imprimir el mensaje
 }

@@ -25,3 +25,4 @@ dependencyResolutionManagement {
 rootProject.name = "Trabajos_Tarea"
 include(":app")
 include(":Tarea")
+include(":Tarea_2")
